@@ -72,3 +72,10 @@ Enter elements:
 9
 Sorted array: 2 3 4 5 6 7 9 
 */
+/* MERGE SORT SUMMARY
+Merge Sort repeatedly divides the array into two halves until each subarray contains
+only one element. It then merges the subarrays back together in sorted order by
+comparing elements from both halves. During merging, the smaller element is copied first
+into a temporary array. This divide-and-conquer process continues until the entire array 
+becomes sorted.
+*/
